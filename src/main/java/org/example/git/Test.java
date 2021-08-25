@@ -9,7 +9,5 @@ public class Test {
         System.out.println("hello4 master");
         System.out.println("hello4 hot fix2 ");
         System.out.println("push test ");
-        System.out.println("pull test ");
-        System.out.println("push clone test ");
     }
 }
