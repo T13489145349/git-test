@@ -13,5 +13,7 @@ public class Test {
         System.out.println("push clone test ");
         System.out.println(" pull test ");
         System.out.println(" pull test2 ");
+        System.out.println(" gitee push test ");
+        System.out.println(" pull test2 ");
     }
 }
