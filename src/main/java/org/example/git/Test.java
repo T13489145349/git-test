@@ -15,5 +15,6 @@ public class Test {
         System.out.println(" pull test2 ");
         System.out.println(" gitee push test ");
         System.out.println(" pull test2 ");
+        System.out.println(" gitee pull test ");
     }
 }
